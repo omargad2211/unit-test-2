@@ -1,0 +1,7 @@
+Generator >> index.test.ts
+iterator >> index.test.ts
+
+toasts >> ToastManager.test.ts
+toasts >> ToastComponent.test.tsx to test react component
+
+promise>> index.test.ts to test api
