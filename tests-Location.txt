@@ -1,6 +1,6 @@
 Generator >> index.test.ts
 iterator >> index.test.ts
-
+functions >> functions.test.js
 toasts >> ToastManager.test.ts
 toasts >> ToastComponent.test.tsx to test react component
 
